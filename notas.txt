@@ -1,3 +1,4 @@
 Aprendí a usar Git
 Aprendí a crear commits y trabajar con GitHub
 Aprendí el flujo add, commit y push
+Hoy practiqué clonar repositorios y subir cambios
