@@ -3,3 +3,5 @@ Aprendí a crear commits y trabajar con GitHub
 Aprendí el flujo add, commit y push
 Aprendí a utilizar git diff para revisar cambios.
 Aprendí la diferencia entre el área de trabajo y el staging.
+ nota 1
+ nota 2
