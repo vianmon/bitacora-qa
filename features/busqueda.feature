@@ -10,7 +10,7 @@ Feature: Búsqueda de plantillas en Canva
 
   Scenario: Búsqueda sin resultados
     Given que el usuario se encuentra en la página principal de Canva
-    When escribe "xyz123plantillaunica" en la barra de búsqueda
+    When escribe "xyz1238" en la barra de búsqueda
     And hace clic en el botón de búsqueda
     Then el sistema informa que no se encontraron resultados
     And sugiere intentar con otro término de búsqueda
