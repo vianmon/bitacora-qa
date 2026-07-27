@@ -4,4 +4,3 @@ Aprendí el flujo add, commit y push
 Hoy practiqué clonar repositorios y subir cambios
 practique subir cambios
 Esta es una línea agregada para la práctica.
-ERROR: esta información está mal y debe eliminarse.
